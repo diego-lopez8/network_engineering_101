@@ -1,3 +1,3 @@
 title: Network Engineering 101
 description: From Computer Networks to Network Engineering. A stepping stone into Network Engineering for CS students. 
-modules: ["Introduction", "Headspace", "Routing at Scale"]
+modules: ["introduction", "headspace", "Routing"]
